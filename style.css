@@ -1,0 +1,14 @@
+.section-area{
+    text-align: center;
+    background-color: darkgray;
+    font-family: 'STIX Two Text', serif;
+}
+.about-container{
+    background-color: deepskyblue;
+}
+.navber-container{
+ top: 0;
+ background-color: darkslategrey;
+ position: sticky;
+ z-index: 2;
+}
